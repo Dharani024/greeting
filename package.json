@@ -1,7 +1,7 @@
 {
   "name": "greeting",
   "version": "1.0.0",
-  "description": "Testing Hello World",
+  "description": "Testing Hello ",
   "main": "hello.js",
   "dependencies": {
     "course-utilities": "^1.0.0",
